@@ -8,8 +8,10 @@
 
 ## 📌 Команды
 
-1) pip install -r requirements.txt
-2) python train_model.py
-3) python predict.py
-4) python test_model.py
+1) python -m venv optim_env
+2) optim_env\Scripts\activate
+3) pip install -r requirements.txt
+4) python train_model.py
+5) python predict.py
+6) python test_model.py
 
