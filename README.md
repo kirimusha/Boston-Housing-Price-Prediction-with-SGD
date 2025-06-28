@@ -13,9 +13,9 @@
 3) pip install -r requirements.txt
 4) python train_model.py
    На выходе получите:
-     Модель (boston_model.pkl)
-     Нормализатор (scaler.pkl)
-     Метрики R² на обучении и тесте
+     1) Модель (boston_model.pkl)
+     2) Нормализатор (scaler.pkl)
+     3) Метрики R² на обучении и тесте
 6) python predict.py
 7) python test_model.py
 
