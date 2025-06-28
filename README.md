@@ -12,7 +12,7 @@
 2) optim_env\Scripts\activate
 3) pip install -r requirements.txt
 4) python train_model.py
-   На выходе получите:
+   1) На выходе получите:
      1) Модель (boston_model.pkl)
      2) Нормализатор (scaler.pkl)
      3) Метрики R² на обучении и тесте
